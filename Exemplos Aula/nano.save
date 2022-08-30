@@ -1,0 +1,1 @@
+blank[blank['deposit'] =='no']['deposit'].str.replcace('no',0)

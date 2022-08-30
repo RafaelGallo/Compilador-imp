@@ -1,0 +1,19 @@
+/* 
+   Programa teste
+   Exemplo de teste para o analisador léxico
+*/
+
+AlGoRiTmO programa_teste
+VARIAVEIS 
+       INTEIRO  X 
+INICIO
+   IMPRIMA("TESTE\n")
+   x <- 0;
+   ENQUANTO (X <= 10) ENTAO
+      SE (x % 2 = 0) ENTAO
+          IMPRIMA(x)
+      FIM
+      X <- x + 1
+   FIM 
+
+FIM

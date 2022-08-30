@@ -1,0 +1,13 @@
+algoritmo Exemplo02
+variaveis inteiro x, y, z
+
+funcao inteiro soma (inteiro a, inteiro b)
+inicio
+   retorne a + b
+fim 
+
+inicio
+    x <- 10;
+    y <- x / 100;
+    z <- (soma(x, y) / (x * 2))
+fim.

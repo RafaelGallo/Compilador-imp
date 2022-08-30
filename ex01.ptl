@@ -1,0 +1,7 @@
+algoritmo Exemplo01
+variaveis inteiro x, y, z
+inicio
+    x <- 10;
+    y <- x / 100;
+    z <- (x + y) / (x * 2)
+fim.
